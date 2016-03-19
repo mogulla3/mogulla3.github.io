@@ -1,0 +1,10 @@
+# Site settings
+title: mogulla3
+tag_text: mogulla3
+description: description
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
