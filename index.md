@@ -10,7 +10,7 @@ layout: default
 ## Products
 
 ### [Vim::Factory](http://vimfactory.com)
-Vim::Factory is the web service which make you experience your favorite vim on browser.
+Vim::Factory is the web-application that make you experience your favorite .vimrc on browser.
 
 ### [darktree](https://github.com/mogulla3/darktree)
-Flash card application that you make yourself.
+darktree is the flash card web-application that you make yourself.
