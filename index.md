@@ -14,3 +14,9 @@ Vim::Factory is the web-application that make you experience your favorite .vimr
 
 ### [darktree](https://github.com/mogulla3/darktree)
 darktree is the flash card web-application that you make yourself.
+
+## Interests
+- Ruby
+- Linux/UNIX
+- Fluentd
+- Web Operation
