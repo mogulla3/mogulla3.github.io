@@ -7,7 +7,7 @@ layout: default
 - [Twitter](https://twitter.com/mogulla3)
 - [Blog](http://sandragon.hatenablog.com/)
 
-## Product
+## Products
 
 ### [Vim::Factory](http://vimfactory.com)
 Vim::Factory is the web service which make you experience your favorite vim on browser.
