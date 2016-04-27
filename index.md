@@ -6,6 +6,7 @@ layout: default
 - [GitHub](https://github.com/mogulla3)
 - [Twitter](https://twitter.com/mogulla3)
 - [Blog](http://sandragon.hatenablog.com/)
+- [読書メーター](http://bookmeter.com/u/652493)
 
 ## Products
 
