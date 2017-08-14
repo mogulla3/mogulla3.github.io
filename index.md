@@ -6,7 +6,7 @@ layout: default
 - [GitHub](https://github.com/mogulla3)
 - [Twitter](https://twitter.com/mogulla3)
 - [Blog](http://sandragon.hatenablog.com/)
-- [読書メーター](https://elk.bookmeter.com/users/652493/)
+- [読書メーター](https://bookmeter.com/users/652493)
 - [Qiita](http://qiita.com/mogulla3)
 
 ## Products
@@ -16,12 +16,11 @@ Vim::Factory is a web-application that make you experience your favorite .vimrc 
 
 ### darktree
 darktree is a flash card web-application that you make yourself.
-※ [demo page](http://darktree.herokuapp.com)
+※ [demo page](https://darktree.herokuapp.com/mogulla3/decks)
 
 ## Interests
 - Service Development
-- Web Operation
-- Ruby
-- Ruby On Rails
-- Linux/UNIX
-- HTTP
+- SRE(Site Reliability Engineering), Web Operation
+- Ruby, Ruby On Rails
+- Linux, UNIX
+- HTTP, TCP/IP
