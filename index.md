@@ -16,18 +16,30 @@ layout: default
 
 ### [Vim::Factory](http://vimfactory.com)
 
-Vim::Factory is a web-application that make you experience your favorite .vimrc on browser.
+Vim::Factoryは、好きな設定を反映した `.vimrc` の使用感をブラウザ上で体感できるWebサービスです。
+設定は自然言語で書かれているため、Vim初心者でも好きな設定を反映できます。
 
 ### darktree
 
-darktree is a flash card web-application that you make yourself.
+darktreeは、個人の学習支援を目的としたフラッシュカードのWebサービスです。
+以下の点にこだわっています。
+
+- より効率的に振り返り学習ができるようにする
+- フラッシュカード自体の管理を楽にする
+
 ※ [demo page](https://darktree.herokuapp.com/mogulla3/decks)
+
+## Qualifications
+
+- LPIC-1 Ver4
+- CSD(Certified Scrum Developer)
 
 ## Interests
 
 - Web Service Development
 - SRE(Site Reliability Engineering), Web Operation
 - Ruby, Ruby On Rails
+- Golang
+- Automation
 - Linux, UNIX
 - HTTP, TCP/IP
-- Golang
