@@ -33,6 +33,7 @@ darktreeは、個人の学習支援を目的としたフラッシュカードの
 
 - LPIC-1 Ver4
 - CSD(Certified Scrum Developer)
+- TOEIC Score: 695
 
 ## Interests
 
