@@ -29,6 +29,13 @@ darktreeは、個人の学習支援を目的としたフラッシュカードの
 
 ※ [demo page](https://darktree.herokuapp.com/mogulla3/decks)
 
+### zelda
+
+zeldaは、現在開いているタブのURLをワンクリックでコピーできるGoogle Chrome拡張です。plaintext形式とmarkdown形式に対応しています。
+N番煎じですが、GoogleChrome拡張開発の実験として作りました。
+
+https://github.com/mogulla3/zelda
+
 ## Qualifications
 
 - LPIC-1 Ver4
