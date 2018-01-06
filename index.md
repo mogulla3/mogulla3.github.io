@@ -10,7 +10,6 @@ layout: default
 - [Blog](http://sandragon.hatenablog.com/)
 - [読書メーター](https://bookmeter.com/users/652493)
 - [HackerRank](https://www.hackerrank.com/mogulla3?hr_r=1)
-- [AOJ](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=mogulla3#2)
 
 ## Products
 
