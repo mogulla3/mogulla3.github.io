@@ -26,7 +26,7 @@ darktreeは、個人の学習支援を目的としたフラッシュカードの
 - より効率的に振り返り学習ができるようにする
 - フラッシュカード自体の管理を楽にする
 
-※ [demo page](https://darktree.herokuapp.com/mogulla3/decks)
+※ https://darktree.jp/mogulla3/decks
 
 ### zelda
 
