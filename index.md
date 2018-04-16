@@ -44,9 +44,7 @@ N番煎じですが、GoogleChrome拡張開発の実験として作りました�
 ## Interests
 
 - Web Service Development
-- SRE(Site Reliability Engineering), Web Operation
 - Ruby, Ruby On Rails
-- Golang
 - Automation
-- Linux, UNIX
-- HTTP, TCP/IP
+- SRE, Web Operation
+- (microservice, gRPC, Swagger)
