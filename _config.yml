@@ -5,6 +5,8 @@ description: description
 
 # Build settings
 markdown: kramdown
-exclude: ["README.md"]
+exclude:
+  - README.md
+  - vendor
 sass:
   style: compressed
