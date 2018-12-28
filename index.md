@@ -16,7 +16,9 @@ layout: default
 ### [Vim::Factory](http://vimfactory.com)
 
 Vim::Factoryは、好きな設定を反映した `.vimrc` の使用感をブラウザ上で体感できるWebサービスです。
-設定は自然言語で書かれているため、Vim初心者でも好きな設定を反映できます。
+設定は自然言語で書かれているため、Vim初心者でも好きな設定を反映できます。@mosuke5との合作。
+
+技術: Sinatra, Node.js, WebSocket, Docker, Nginx, memcached, Ansible, さくらVPS
 
 ### darktree
 
@@ -26,7 +28,9 @@ darktreeは、個人の学習支援を目的としたフラッシュカードの
 - より効率的に振り返り学習ができるようにする
 - フラッシュカード自体の管理を楽にする
 
-※ https://darktree.jp/mogulla3/decks
+※ サンプルページ : [https://darktree.jp/mogulla3/decks](https://darktree.jp/mogulla3/decks)
+
+技術: Ruby, Rails, jQuery, Heroku
 
 ### zelda
 
@@ -34,6 +38,14 @@ zeldaは、現在開いているタブのタイトルとURLをワンクリック
 N番煎じですが、GoogleChrome拡張開発の実験として作りました。
 
 [https://github.com/mogulla3/zelda](https://github.com/mogulla3/zelda)
+
+技術: JavaScript
+
+### Web百人一首（開発中）
+
+Web百人一首は、Web上で百人一首の学習やオンライン対戦ができるWebサービスです。@mintsu123との合作。
+
+技術: JavaScript, Nuxt.js, Firebase
 
 ## Qualifications
 
@@ -43,8 +55,7 @@ N番煎じですが、GoogleChrome拡張開発の実験として作りました�
 
 ## Interests
 
-- Web Service Development
+- Web Application Development
 - Ruby, Ruby On Rails
-- Automation
-- SRE, Web Operation
-- (microservice, gRPC, Swagger)
+- JavaScript, Vue.js
+- Automation, Performance
