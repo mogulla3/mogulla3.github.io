@@ -2,5 +2,6 @@
 ==============
 
 ```
+$ bundle install --path vendor/bundle
 $ jekyll build
 ```
