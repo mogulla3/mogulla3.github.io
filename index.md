@@ -41,7 +41,7 @@ N番煎じですが、GoogleChrome拡張開発の実験として作りました�
 
 技術: JavaScript
 
-### Web百人一首（開発中）
+### [Web百人一首](https://web-isshu.motsunabe.world)
 
 Web百人一首は、Web上で百人一首の学習やオンライン対戦ができるWebサービスです。@mintsu123との合作。
 
