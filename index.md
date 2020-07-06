@@ -7,7 +7,7 @@ layout: default
 - [GitHub](https://github.com/mogulla3)
 - [Twitter](https://twitter.com/mogulla3)
 - [Qiita](https://qiita.com/mogulla3)
-- [Blog](https://mogulla3.tech)
+- [Blog](https://www.mogulla3.tech)
 - [読書メーター](https://bookmeter.com/users/652493)
 - [HackerRank](https://www.hackerrank.com/mogulla3?hr_r=1)
 
