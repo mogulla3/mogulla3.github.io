@@ -1,7 +1,7 @@
-[mogulla3.github.io](https://mogulla3.github.io)
-==============
+# [mogulla3.github.io](https://mogulla3.github.io)
 
 ```
-$ bundle install --path vendor/bundle
-$ jekyll build
+$ bundle install
+$ bundle exec jekyll build
+$ bundle exec jekyll s
 ```
